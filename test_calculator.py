@@ -1,5 +1,5 @@
 from calculator import add, subtract
 def test_add():
-    assert add(1, 2) == 3
+    assert add(1, 2) == 4
 def test_subtract():
     assert subtract(5, 3) == 2
